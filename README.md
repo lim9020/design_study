@@ -9,7 +9,7 @@
 ## 1회차
 
 ### GitHub 형상 관리
-- [ ] GitHub 파일 버전 관리
+- [x] GitHub 파일 버전 관리
 - [ ] GitHub.io 도메인 생성
 - [ ] 파일 가상 저장소 동기화 (sync)
 
