@@ -20,7 +20,7 @@
 - [ ] 브랜드 아이덴티티
 
 ### 타입(UI)스케치
-- [ ] 레이아웃 스케치
+- [X] 레이아웃 스케치
 - [ ] 워크플로우 구성
 
 <br>
@@ -31,9 +31,9 @@
 <br>
 
 ### 디자인 툴
-- [ ] Adobe Photoshop
-- [ ] Adobe Illustrator
-- [ ] Adobe XD
+- [X] Adobe Photoshop
+- [X] Adobe Illustrator
+- [X] Adobe XD
 
 ### 문서 툴
 - [ ] 파워포인트
