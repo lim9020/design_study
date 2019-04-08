@@ -25,22 +25,19 @@
 ### 2. GitHub.io 페이지 생성
 - github desktop 설치
 
-  >설치 후 Github 아이디 / 비밀번호로 로그인
-  
+  > 설치 후 Github 아이디 / 비밀번호로 로그인
+
 - 프로젝트 생성
 - project repository 생성
 
-  >메뉴 -> You repositories -> New 버튼 클릭
-  
+  > 메뉴 -> You repositories -> New 버튼 클릭
+
   ![](https://i.imgur.com/lzHjhjQ.png)
-  
   Repository name, Description 작성 -> Public(전체공개) / Private(비공개) 선택 -> Create repository 버튼 클릭
-  
   ![repository 새로만들기](https://i.imgur.com/1irjEKL.png)
-  
 - git page 생성 방법
 
-  > 폴더 하나에 README.md 하나
+  > 폴더 하나에 README.md 파일하나
 
 <br>
 <br>
@@ -63,7 +60,7 @@
 - 클론 (clone) - 프로젝트 가져오기
 
   > Github에서 Clone or download -> 링크 복사 -> GitHub Desktop에서 File -> Clone repository... -> URL 누르고 입력창에 링크 붙여넣기 -> Clone 버튼 클릭
-  
+
   ![프로젝트 가져오기 01](https://i.imgur.com/xLMFWDj.png)
   ![프로젝트 가져오기 02](https://i.imgur.com/0xcAUkf.png)
   ![프로젝트 가져오기 03](https://i.imgur.com/8p9Soki.png)
@@ -81,7 +78,14 @@
   > Push origin 버튼 클릭
 
   ![푸시하기](https://i.imgur.com/rJMJ3RT.png)
+
 - 풀 (pull) - 실서버 내려받기
+
+  > 수정 버튼 클릭 -> 문서 수정후 Commit changes에 수정내용 간략하세 작성 -> Commit changes 버튼 클릭 -> github desktop에서 Pull origin 버튼 클릭
+
+  ![문서 수정](https://i.imgur.com/5aP0KxJ.png)
+  ![수정 작성](https://i.imgur.com/b5hukbn.png)
+  ![풀하기](https://i.imgur.com/UDTCh8h.png)
 
 <br>
 <br>
