@@ -33,8 +33,11 @@
   > 메뉴 -> You repositories -> New 버튼 클릭
 
   ![](https://i.imgur.com/lzHjhjQ.png)
-  Repository name, Description 작성 -> Public(전체공개) / Private(비공개) 선택 -> Create repository 버튼 클릭
+  
+  > Repository name, Description 작성 -> Public(전체공개) / Private(비공개) 선택 -> Create repository 버튼 클릭
+  
   ![repository 새로만들기](https://i.imgur.com/1irjEKL.png)
+  
 - git page 생성 방법
 
   > 폴더 하나에 README.md 파일하나
@@ -81,7 +84,7 @@
 
 - 풀 (pull) - 실서버 내려받기
 
-  > 수정 버튼 클릭 -> 문서 수정후 Commit changes에 수정내용 간략하세 작성 -> Commit changes 버튼 클릭 -> github desktop에서 Pull origin 버튼 클릭
+  > 수정 버튼 클릭 -> 문서 수정 후 Commit changes에 수정내용 간략하게 작성 -> Commit changes 버튼 클릭 -> github desktop에서 Pull origin 버튼 클릭
 
   ![문서 수정](https://i.imgur.com/5aP0KxJ.png)
   ![수정 작성](https://i.imgur.com/b5hukbn.png)
